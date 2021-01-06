@@ -1,2 +1,2 @@
 # Rain-Game
-Graphical game written in pythonista 
+Graphical game written in pythonista using the scene library
